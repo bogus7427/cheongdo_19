@@ -31,5 +31,6 @@
     ".vscode{,/**}"
   ],
   "appService.defaultWebAppToDeploy": "/subscriptions/0f1a4bf2-c99c-4cbf-90bc-0db119d26cfd/resourceGroups/flask-todolist_group_bogus1983/providers/Microsoft.Web/sites/flask-bogus1983",
-  "appService.deploySubpath": "."
+  "appService.deploySubpath": ".",
+  "liveServer.settings.port": 5501
 }
